@@ -41,7 +41,6 @@ data/
 *.wav
 *.mp4
 *.m4v
-*.txt
 *.json
 
 # Jupyter Notebook
